@@ -5,9 +5,9 @@
 </asp:Content>
 <asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
     <h2>
-        About
+    New about page
     </h2>
     <p>
-        Put content here.
+      Monday change
     </p>
 </asp:Content>
