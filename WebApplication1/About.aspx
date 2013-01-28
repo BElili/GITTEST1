@@ -8,6 +8,6 @@
     New about page
     </h2>
     <p>
-      Monday change +++++=
+Hello Monday
     </p>
 </asp:Content>
